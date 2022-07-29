@@ -26,3 +26,32 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.Experiances-mergin{
+    margin-left: 150px;
+    margin-bottom: -100px;
+    font-size: 50px;
+
+}
+.font-size{
+    font-size: 35px;
+}
+.Experiances{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+
+}
+#yollow-border{
+    border-left: 6px solid yellowgreen;
+}
+#blue-border{
+    border-left: 6px solid blueviolet;
+}
+footer p{
+    text-align: center;
+
+}
